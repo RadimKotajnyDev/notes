@@ -1,0 +1,25 @@
+---
+- <u>médium</u> = přenosový kanál
+	- Metalický kabel (Cu)
+	- optický
+	- prostředí -> el. mag vlnění
+- Týka se v fyzické ISO/OSI a síť rozhraní TCP/IP
+- <u>Význam</u>
+	- při použití shodného přenos. média více uzly v síti
+	- HUB, wireless komunikace
+	- domluva přenosového času mezi 2 komunikujícími uzly => 2 vysílají/přijímají a ostatní "mlčí"
+		- Uzly kontrolují v jakém stavu se přenos. médium nachazí 
+			- VOLNO - mohu vysílat
+			- OBSAZENO - čekám (mlčím)
+## Řízení přístupu k médiu
+- <u>Centralizované</u>
+	- 1 nadřazený prvek sítě rozhoduje kde/kdy bude komunikovat
+- <u>Statické</u>
+	- pevné stanovené okamžiky pro komunikaci uzlů
+	- Multiplexované
+		- ![[Pasted image 20221124092818.png]]
+- <u>Dynamické</u>
+	- přenos cestou přidělen dle potřeby
+- <u>Distribuované</u>
+	- nemá central. prvek
+	- každý uzel v síti dodržuje pravidla (řídí se algoritmem)

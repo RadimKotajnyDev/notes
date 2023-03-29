@@ -1,0 +1,71 @@
+- funkce řeči:
+	- spjata se vznikem lidské společnosti
+- lidská řeč
+	- uvědomělý artikulovaný zvukový projev
+	- dělí se:
+		- mluvený
+		- psaný
+		- psaná podoba 
+			- fonetika
+			- grafické znaky = fonémy
+		- mluvená podoba
+			- arikulované hlásky, slovní a větný přízvuk
+- Hlasová kultura a hygiena
+	- mluvená podoba se realizuje:
+		- prostřednictvím řeči
+	- hlasová kultura
+		- označení jisté kvality hlasového projevu
+		- působí příjemně nebo nepříjemně
+- Hodnocení hlasu
+	- kritéria hodnocení:
+		- hlasová hygiena
+			- nepřepínání hlasivek
+			- vyhýbat se kuřáckému prostředí
+			- odstraňování řečových vad
+			- nácvik obtížných hlásek a dechový trénink
+		- kultivovanost projevu
+			- strojenost, afektovanost, patetičnost
+			- jasnost, výstižnost, faktografičnost
+- Požadavky hlasového projevu
+	- zřetelná, naprosto srozumitelná artikulace
+	- zvučný hlasitý hlasový projev - barevná bohatost, intonace
+	- potřeba zdravého hlasu/zvuku
+- Proces verbální komunikace
+	- původce sdělení -> sdělení -> příjemce sdělení
+		- pak zpětná vazba
+	- komunikační proces předpokládá vzájemnou interakci
+- Základní rysy - Stylistické
+	- mluvenost - rys připravenosti
+	- veřejnost
+		- veřejný - monologický projev
+		- neveřejný - osobní, intimní, rodinný
+	- spisovnost
+		- veřejnost si žádá spisovnost projevů
+		- spisovná/hovorová čeština
+	- formálnost
+		- veřejný formální a neformální projev
+		- neveřejný formální a neformální projev
+- Aktuální psychické dispozice
+	- pozornost
+	- únava
+	- vlastní příznivý nebo nepříznivý přístup
+	- vztah k mluvčímu
+- Proces komunikace
+	- složitý interdisciplinární jev
+	- zasahující do:
+		- psychologie a sociologie
+		- fonetiky a fonologie
+		- psycholingvistiky a neurolingvistiky
+	- proces komunikace bychom mohli shrnout
+		- Kdo -> co -> komu -> jak
+- Mimické projevy
+- proxemika
+- Haptika
+	- signály
+		- oční kontakt
+		- podání ruky
+		- poklepání po rameni
+		- pohlazení po hlavě
+- Posturika
+	- poloha těla
+- Gestikulace

@@ -1,0 +1,10 @@
+- jazykovědná disciplína
+- zkoumá stavbu vět a souvětí
+- Věta / výpověď
+	- věta - abstraktní konstrukt
+		- abstraktní - to co si myslím v hlavě 
+		- musí mít přísudek
+		- má stránku gramatickou
+	- výpověď
+		- v moment kdy větu řekneš nahlas
+		- 

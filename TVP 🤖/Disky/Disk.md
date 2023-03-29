@@ -1,0 +1,38 @@
+#TVP #disk
+# DISK
+## HDD
+- zápis dat na HDD 
+	- 1) pohyb čtecích hlav na příslušný Cylindr
+	- 2) čekání na pootočení plotny disku na příslušný sektor
+	- 3) disk na pozici
+- velikost adresovatelných disků
+	- **Sektor** 512B - nejmenší adresovatelná jednotka disku
+	- **Cluster**
+		- vytváří si OS - slučuje sektory - obsahuje až 64 sektorů
+		- snižuje nároky na adresaci a evidenci dat
+		- nesmí být obsazen daty z více souborů - pokud je hodně malých souborů nedochází k zaplnění **Clusteru** - plýtvá
+		- velikost Clusteru - volitelné OS, např. 4kB
+- Zone bit recording ZBR
+	- optimalizace zápisu dat, lepší využití místa na disku, vyšší kapacita disku
+	- vkládá více sektorů na vnější okraj disku
+	- Klade vyšší nároky na řadič (řídící CPU disku) a paměť
+- Native Command Queing NCQ
+	- řazení příchozích požadavků na W/R HDD
+	- Požadavky přichází v nějakém pořadí a NCQ je přeřadí tak, aby to bylo pro něj lepší fyzicky zapsat. (Odstraní kmitání po velkých drahách - od kraje ke kraji)
+	- Pohyb hlav je po NCQ plynulý
+	- Příchozí požadavky v pořadí A,B,C,D,E,F,G,H
+	- Přeřazení do NCQ: A,E,C,G,H,F,D,B
+- SMART
+	- *Self monitoring, Analysis and reporting Technology*
+	- Technologie pro sledování stavu disku a následné ohlašování nebezpečných provozních ukazatelů, které mohou vést k selhání disku. (=> ztráta dat)
+	- může předvídat zvýšenou pravděpodobnost selhání disku
+	- 1) Předvídatelné problémy s HDD (SMART) -> mechanické problémy, meřitelné parametry
+		- Mezní výška čtecích hlav nad záznamovou plochou – kolize
+		- čas k roztočení ploten
+		- teplota disku
+		- počet vadných sektorů
+		- použití ECC v nadměrné míře
+	- 2) nepředvídatelné – bez varování – např. přepětí, pád
+		- Technologie ochrany dat před -,,-  => Lenovo, HP... u NTB
+			- senzory (akcelerometry) – zaparkují hlavu mimo data
+			- 

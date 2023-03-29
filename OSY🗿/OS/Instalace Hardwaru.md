@@ -1,0 +1,14 @@
+# Instalace Hardwaru
+- instalace přídavných karet a ovladačů k nim potřeba
+- každé přídavné zařízení připojená přímo ke sběrnici potřebuje
+	- rozsah vstupních a výstupních adres
+	- číslo hardwarového přerušení IRQ
+	- číslo kanálu DMA
+		- rozsah adres v operační paměti
+		- dříve se muselo na přídavných kartách nastavit ručně pomocí jumperu
+			- v současnosti toto nastavuje PlugNplay BIOS
+			- tato problematika se netýká externích zařízení (USB)
+			- v okamžiku spuštění OS jsou HW parametry téměř vždy již nakonfigurovány				
+		- Když OS zařízení hledá ovladač (v instalaci WIN), tak ho nainstaluje.
+			- else: použije se Win Update a hledá ho na internetu
+			- když se nenašel, tak vyhodí chybu

@@ -1,0 +1,12 @@
+- PowerPoint
+	- v MS Office 
+	- .pttx
+- SMART Notebook
+	- výhoda - vzhled rozhraní
+	- interaktivní tabule
+	- galerie jsou statické i dynamické
+- Prezi
+	- Maďarská společnost
+	- ZUI - Zooming user interface 
+	- virtuální software
+ 

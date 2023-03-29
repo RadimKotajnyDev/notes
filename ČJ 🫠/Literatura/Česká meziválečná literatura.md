@@ -1,0 +1,391 @@
+-   Historické souvislosti
+    -   urbanizace
+    -   technický pokrok
+    -   1. světová válka 
+    -   Ruská říjnová revoluce 
+    -   Hospodářská krize
+    -   Samostatné Československo
+    -   Hrozba a strach z další války
+
+## Legionářská literatura
+
+-   Legionáři - čeští vojáci v zahraničí, československé legie
+-   obecné rysy - autoři byli často sami v legiích, vlastní zážitky
+-   Josef Kopta
+    -   tvorba spočívá v osobních zážitcích z revolučního ruska
+    -   autobiografické rysy
+    -   mezi válkami byl čtenářsky oblíbený
+    -   "Třetí rota"
+        -   románová trilogie
+        -   nejen osudy čsl. legií, ale i komplikace se sověty, konec carismu, počátek ruské revoluce
+-   Rudolf Medek
+    -   velice populární meziválečný autor
+    -   považován za oficiálního spisovatele legionářské literatury
+    -   generál, konzervativec
+    -   ve 30. letech ostré útoky proti demokratickým autorům
+    -   fašistický postoj
+    -   Anabáze
+        -   románová pentalogie
+        -   posledních 20 měsíců legií (boje u Zborova a Bachmače)
+        -   po návratu domů
+        -   některé kritiky tvrdí, že Medek některé skutečnosti nahradil průhlednou demagogií
+    -   Plukovník Švec
+        -   drama
+        -   Národní divadlo v Praze
+        -   vyvolalo polemiku o hrdinství českého člověka za války
+        -   na skutečné události
+            -   dobrovolná smrt velitele vojenské jednotky
+            -   vnitřní zápas mezi nacionalistickou a bolševickou orientací
+    -   Zborov
+        -   až patetická báseň oslavující heroismus legionářů v bitvě u Zborova
+-   František Langer
+    -   Železný vlk
+        -   povídková kronika legií
+    -   Jízdní hlídka
+        -   Drama o osudech legionářů na Sibiři
+
+## Jaroslav Hašek
+
+-   bohém
+-   geniální mystifikátor
+-   dobrodruh
+-   hospodský povaleč
+-   vynikající spisovatel s vrozeným smyslem pro humor
+-   provokatér
+-   milovník zvířat
+- lidový člověk, prosťáček
+-   publikoval v časopise a novinách
+    -   satira a humoresky
+    -   na čas redaktor - Svět zvířat
+        -   články o neexistujících zvířatech
+-   Soubory povídek:
+    -   Trampoty pana Tenkráta
+    -   Průvodčí cizinců a jiné satiry z cest i z domova
+    -   Můj obchod se psy a jiné humoresky
+    -   Dva tucty povídek
+    -   Tři muži se žralokem
+    -   Mírová konference
+-   1912 - Dobrý voják Švejk a jiné podivné historky
+    -   první podoba budoucího slavného Švejka
+-   Dobrý voják Švejk v zajetí
+    -   druhá verze
+-   Definitivní verze – 1920 - 1923
+    -   Osudy dobrého vojáka Švejka za světové války
+    -   tetralogie - 4 díly
+    -   poslední díl Hašek nedokončil, dopsáno Karlem Vaňkem
+- Dějiny strany mírného pokroku v mezích zákona
+	- vyšlo až 1962
+	- roku 1911 zakládá vlastní politickou stranu "Strana mírného pokroku v mezích zákona"
+	- kandiduje za ni
+	- humoristická kniha
+- filmové adaptace
+	- Haškovy povídky ze starého mocnářství (1952)
+	- Dobrý voják Švejk (1956)
+- Hašek říkal, že Švejka napsal jen jako hospodský blábol
+- Švejk byl odmítaný mnohými vyznámnými českými literárními osobnostmi
+- téme Švejka:
+	- kritika armády 
+	- světová válka
+	- absurdita války
+	- chaos způsobený válkou
+	- satira
+- švejkovina
+	- něco co popírá fungování řádu
+- Osudy dobrého vojáka Švejka:
+	- typické svou rozříštěností
+	- Švejk se chová jako lidový prosťáček
+	- postavy:
+		- Švejk
+		- paní Müllerová
+		- nadporučík Lukáš
+			- znám svými milostnými aférami
+		- hostinský Palivec
+			- zatčen za velezradu
+				- Schoval obrázek císaře pána ať na něj neserou mouchy
+		- feldkurát Katz
+			- "sluha boží"
+			- chtěl se vyhnout službě
+			- káže vodu a pije víno
+				- alkoholik
+				- ateista
+			- Švejka prohraje v kartách s np. Lukášem
+		- poručík Dub
+			- v civilu profesor z gymnázia
+			- přešel do armády
+			- své vojáky kritizuje a šikanuje
+	- jazyk
+		- hovorová čeština
+		- vojenský slang
+		- vurgality 
+		- germanizace
+		- komolení jazyka
+		- kontrasty, narážky
+		- dlouhé souvětí
+		- dlouhé sledy myšlenek
+		- chaos 
+		- cíl - navodit pocit hospodského vyprávění příběhu
+	- 1. Díl - V zázemí
+		- před Válkou
+		- zatčen tajnou policií
+		- označen za úředního blba
+		- propuštěn
+		- předvolán k odvodu
+		- kvůli revmatu poslán do nemocnice 
+		- léčen klistýrem a výplachy žaludků
+		- feldkurát si ho vezme
+		- prohraje ho s Lukášem
+		- Lukáš chce psa
+		- Švejk ukradne psa plukovníkovi
+		- převeleni k maršbaťáku
+	- 2. Díl - Na frontě
+		- cestují do Budějovic
+		- vyhodí ho z vlaku
+		- než zaplatí pokutu vlak mu ujede
+		- jde pěšky 
+		- zavřou ho jako ruského špeha
+		- na velitelství ví že se ztratil, pošlou ho zpět
+		- Lukáš ho pošle s dopisem za milenkou
+		- potká jejího manžela
+		- zavřou ho za rvačku
+		- odjedou na frontu
+	- 3. Díl - slavný výprask
+		- odjíždí na ruskou frontu
+		- Dub vyhrožuje voják vězením za bordel
+		- Švejk ho najde v bordelu
+		- odvede ho na velitelství
+		- u rybníka vidí borca, zavolá na něj
+		- on uteče
+		- najde ruskou uniformu 
+		- oblíkne si ji
+		- Maďarská hlídka ho zatkne a hodí do basy
+	- 4. díl - pokračování slavného výprasku
+		- odsouzen k smrti za zběženectví
+		- kurát Martinec
+		- Švejk ho dovede k šílenství, opije se do bezvědomí
+		- Švejka pak pustí
+
+## Demokratická literatura
+- Lidové noviny
+- filozofie pragmatismu
+	- otázka pravdy
+	- "Vše co je užitečné, úspěšné, je pravdivé"
+	- pravda je relativní
+	- odnoží je noetika
+- Karel Čapek
+	- Život:
+		- bratr Josef a sestra Helena
+		- působí v Lidových novinách
+		- publicista, spisovatel, dramatik
+		- dramaturg divadla na Vinohradech
+		- organizoval skupinu Pátečníci
+			- schůzky u něj doma 
+			- v pátek v 5 hodin
+			- zabývali se demokracií, každodenním životem
+			- patří tam:
+				- bratři Čapkové
+				- T.G.M
+				- Ferdinand Peroutka
+				- Vladislav Vančura
+				- Karel Poláček
+			- proti nacistům
+			- hodně lidí si tím pobouřili
+		- tito lidé ho začali napadat, vyhrožovat
+		- v 2. pol. 30. let štvavá kampaň
+		- špatný psychický stav
+		- prosinec 1938 - umírá na zápal plic
+	- ### Novinář
+		- Lidové noviny
+		- psal fejetony
+			- zpracovává každodenní tématiku
+			- vtipné, odlehčené
+			- seipisuje to s vtipem, humorem
+		- cestopisy
+			- rád cestoval
+			- "Italské listy"
+			- "Anglické listy"
+			- "Obrázky z Holandska"
+			- "Výlet do Španěl"
+		- sloupky
+			- je to sloupek
+			- nejčastěji reaguje na aktuální politické dění
+		- "Hovory s T.G.M"
+			- fiktivní
+	- ### Utopie
+		- 20. léta 20. století
+		- utopie
+			- idea, které nelze dosáhnout
+		- dramata a próza
+		- utopie založená na technologii, technologickým pokrokem
+		- varování před technologickým rozvojem
+		- vyústění - zánik světa
+		- označován za předchůdce sci-fi
+		- Dílo:
+			- R.U.R
+				- světoznámé drama
+				- Rozumově Univerzální Roboti
+				- přináší slovo Robot
+					- vymyslel Josef
+				- Postavy:
+					- Domin
+						- ředitel továrny na výrobu robotů
+						- přesvědčen, že roboti 100% nahradí lidi
+						- myslí si, že roboti nahradí i vojáky
+					- stavitel Alguist
+						- staví roboty
+						- jako jediný přežije genocidu lidstva
+						- má obnovit návod na sestrojení robota
+						- originální návod byl zničen => hrozí jim vyhubení
+					- Helena a Primus
+						- roboti
+						- Alguist je chce pitvat
+						- oni nechcou
+						- milují se
+						- emoce u robotů == obnova lidstva
+			- Věc Makropulus
+				- utopistický román
+				- hlavní postava - Elina Makropulos
+				- požije umýslně elixír dlouhověkosti
+					- žije déle o 300 let
+				- na dvoře Rudolfa II.
+				- prochází historii v různých podobách
+				- je nešťastná, osamocená
+				- zničí recept na elixír
+			- Továrna na absolutno
+				- utopistický román
+				- absolutno může zničit lidstvo
+				- štěpí atomy uhlí + vyzařuje absolutno 
+					- "boha"
+					- absolutno nábožensky zfanatizují
+					- výsledek - fanatici a války
+				- svět je zachráněn zničením tohoto vynálezu 
+				- v dost špatném stavu
+			- Krakatit
+				-  utopistický román
+				- Krakatit - výbušnina
+					- objevena Inženýrem Prokopem
+						- zrazen vlastním přítelem
+						- je nemocen 
+						- v horečce řekne příteli Tomešovi recept
+						- ten chce vynález zneužít
+						- v momentě kdy Tomeš chce Krakatit vyrobit vybuchne laboratoř
+						- recept zničen
+						- Prokop si ho nepamatuje
+			- Válka s mloky
+				- utopistický román
+				- používá fejetony
+				- prokládá děj s novinovými články, rozhlasovými relacemi
+					- navozují pocit reálnosti
+				- vydáno 1936
+					- naráží na nacisty
+				- využití levné pracovní síly
+					- onen vynález
+				- Mloci - nacisti
+				- lidstvo objeví velice inteligentní mloky
+				- používají je jako levnou pracovní sílu
+				- mloci se vzbouří
+				- začnou zabíjet lidi
+				- zatápí území
+				- konec - Mlok se objeví ve Vltavě v Praze
+					- i ve vnitrozemí dochází k zamoření mloky
+				- Děj:
+					- kapitán van Toch
+						- loví perly
+						- dojel na ostrůvek TanaMasa
+						- všude vylovené perly až na Devil Bay
+						- nikdo tam nechodí - říkají že tam jsou čerti
+						- začne se s nimi stýkat - oblíbí si je
+						- čertí = mloci
+						- naučí je nosit mu perly a bránit se proti žralokům
+						- bere si dovolenou a je tam rok
+					- pan Bondy
+						- s van Tochem zakládají společnost
+						- exportují mloky po světě
+						- vědci zjišťují že jsou inteligetní
+						- van Toch umírá
+						- pan Bondy prodává mloky jako pracovní sílu
+						- mloci se bouří
+						- válka
+			- Bílá nemoc
+				- drama, tragédie
+				- protiválečné
+				- alegorie jako šířící se nacizmus
+				- zobrazuje absurtidu války
+				- nemoc se šíří, nejde nalézt lék
+					- nemoc == nacizmus 
+				- vytváří se ideologický dav, proti kterému je jedinec bezmocný
+				- Děj
+					- lidé na nemoc umírájí
+					- nejdřív se objevují fleky na těle
+					- malomocenství 
+					- doktor Galén
+						- vytvoři lék
+						- jedinec co stojí proti davu
+						- chce lidstvu pomáhat
+						- pacifista
+						- ošetřuje chudé, kteří jsou proti boji
+						- naivní ale statečný
+					- Maršál
+						- krutý, zlý člověk
+						- diktátor
+						- neústupný, ale zbabělec
+						- alegorické zobrazení Hitlera
+					- Baron Krüg
+						- vlastník zbrojovky
+						- podporuje Maršála
+					- baron onemocní
+					- baron chce po Galénovi ať ho vyléčí
+						- jen pod podmínkou že zastaví válku
+					- Maršál se to dozví a zakáže to 
+					- baron se zastřelí
+					- Maršál onemocní
+					- Galén mu dá stejnou podmínku
+					- musí ale projít zfanatizovanou masou lidí
+					- vykřikuje že válka nebude
+					- ušlapou ho
+					- lék je zničen
+					- Rodina
+						- každý z nich to vidí jinak
+						- Matka
+							- má strach, bojí se nemoci
+						- Otec
+							- mě se to netýká, mě to nezajímá
+						- Syn
+							- fanatik
+						- Dcera
+							- realistka
+	- Povídky:
+		- Povídky z jedné/druhé kapsy
+			- detektivní povídky
+	- Pohádky
+		- moderní pohádky
+		- autorské
+			- vytváří si je sám
+		- Devatero pohádek
+		- Dášenka čili život štěněte
+
+
+## Josef Čapek
+- skončil v Bergen-Belzen
+	- koncentrák
+- umírá na tyfus
+- Ze života hmyzu
+	- Opilý tulák
+		- je ve škarpě u silnice 
+	- zdá se mu že mluví s hmyzem
+		- hmyz = lidi ve společnosti
+		- motýli - pyšní a marniví
+		- chrobáci - sobci
+		- mravenci - podřízení totalitě
+		- jepice - marnivost života
+- Povídání o pejskovi a kočičce 
+- Básně z koncentračního tábora
+	- vydáno posmrtně
+
+## Ferdinand Peroutka
+- odpůrce komunismu
+- po 48 emigroval
+
+## Eduard Bass
+
+
+

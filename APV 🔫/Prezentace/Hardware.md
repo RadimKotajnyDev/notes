@@ -1,0 +1,40 @@
+- Flip Chart
+	- bílá tabule
+	- umožňuje zaznamenat diskusi
+- Panaboard
+	- elektronická kopírovací tabule
+	- prostřednictvím počítače lze text z tabule rozeslat emailem nebo uložit
+	- výsledek se dá vytisknout
+- Projektory
+	- zařízení umožňující přehrát obraz
+	- zdroj - cokoliv co zapojíš do VGA/DVI/HDMI
+	- Skupiny
+		- ulralight
+		- personal
+		- mobil
+		- konfiction
+- Interaktivní tabule
+	- interaktivní plocha, počítač a projektor
+	- obraz můžeme prstem nebo speciálními fixy ovládat
+	- tabule je na stěně nebo na stojanu
+- Interaktivní snímač
+	- použití pro tabuli, stěnu nebo plátno
+	- základní výbava
+		- snímač a pero
+	- set je přenosný
+- Sympodium
+	- interaktivní poznámky
+	- můžeme upravovat návrhy
+	- zvýrazňovat vybraná místa
+	- načrtnout jednoduchý obrázek či graf
+	- dotykem prstu na panelu ovládat systém
+- Informační systémy
+	- využití reaktivního času zaměstnanců
+	- umístění - na recepci, do zasedačky
+	- proč - oslovení zaměstnanců, návštěv
+- Teleprezentace
+	- komunikace z očí do očí
+	- hodnocení a školení zaměstnanců
+	- workshopy, porady
+	- ekonomičtější a efektivnější
+- 

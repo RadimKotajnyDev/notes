@@ -1,0 +1,12 @@
+---
+- stará se o přenos jednotlivých bitů – do přenosového média
+	- příjem Rx
+	- odesílání Tx
+- Přebírá obsah rámce (Frame) 2. vrstvy
+- převádí -,,- na sériový přenos – bit po bitu
+- pracuje pouze s log. 1 a logickou 0
+- řeší prevod log. hodnot na fyzikální (el. , el-mangetic, ...)
+- definuje vlastnosti přenosového média – co musí splňovat, aby došlo ke správnému přenosu
+	- v rámci normy ISO/OSI
+- Zjednodušený př. převodu logic. hodnot na el. signál
+- ![[Pasted image 20221123091004.png]]

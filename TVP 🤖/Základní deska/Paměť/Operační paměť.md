@@ -1,0 +1,4 @@
+- slouží k ukládání prog. kódu a dat
+- tvořeno pomoc. dynam.
+- pro W/R užívá adresaci - souřadnice pam. buněk
+- 

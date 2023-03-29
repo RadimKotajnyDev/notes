@@ -1,0 +1,51 @@
+#TVP 
+# Grafické adaptéry
+- Převádí BIN informaci od CPU do podoby použitelné pro výstup. zař. – Monitor
+- 1) starý typ OLD digital: Herculec, MDA, CGA
+- 2) Analog - VGA
+- 3) New Digital - kvalitní barvy - DVI, HDMI, Display Port
+- Režim činnosti 
+	- 1) Textový režim – první typy adaptérů – práce pouze se znaky - znak reprezentován kódem a atributy
+	- 2) grafický režim - určuje vlastnosti každého bodu obrazu
+- řadič
+	- řídí a synchronizuje činnost celého graf. adaptéru
+	- může být programován CPU
+	- výsledek je posloupnost bodů monit.
+	- informace je zaslána společně s informacemi (správné vykreslení v čase)
+	- synchronizace je horizontální (body v řádku) a vertikální (číslo řádků)
+- VRAM 
+	- video RAM
+	- double port RAM
+	- stejný čas W/R
+	- framebuffer mezi CPU a monitorem
+	- CPU odesílá informace o obrazu v blízké budoucnost – s předstihem, to dává graf. kartě čas na zprac. pokynů – příprava snímku a odeslání do monitoru
+- PROM
+	- jsou v ní uloženy obrazy znaků
+	- obsahuje bitové obrazy jednotlivých řádků znaku
+	- ukazatel je kód znaku
+- GZ - generátor znaku
+	- vytahuje z PROM znaky
+- DA - dekodér atributů
+	- základní znak, který je uložen v PROM můžeme upravovat - typy písma atd.
+- PR - posuvný registr
+	- uvnitř graf. adaptéru je informace v paralelní podobě (graf. , textové)
+	- převádí informace na sériovou – body řádku a označení nového řádku
+	- vše se děje v rychlém sledu - zobrazování je po bodech - pro oko je výsledkem zdání 2D obrazu
+- GS - generátor signálů pro monitor
+	- převod na typ signálů "srozumitelný" pro monitor
+	- synchronizace řádkování/snímkování
+## GPU vs CPU
+### CPU
+- univerzální využití
+- široké spektrum úloh
+- složitá struktura
+- práce paralelně, ale převládá sériový systém práce
+- počet jader v jednotkách
+### GPU
+- "jednoúčelově" zaměřen na úzké spektrum úloh
+- ve svých úlohách cca 20x rychlejší jak CPU
+- paralelní úlohy hlavně
+- jednoúčelová jádra
+- stovky mini jader např. 200
+- **GPU je závislý na přípravě a přísunu dat z CPU**
+- 

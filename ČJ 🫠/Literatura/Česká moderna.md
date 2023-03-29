@@ -1,0 +1,65 @@
+-   přelom 19-20. stol
+-   společenská krize, strach
+-   manifest Česká moderna
+    -   1895
+    -   združení mladých umělců
+    -   požadavky na tvůrčí svobodu
+    -   umění pro umění
+        -   apolitické umění
+    -   kritika starší generace
+-   Autoři:
+    -   Josef Svatopluk Machar
+        -   není apolitcká
+            -   prosazování češtiny a češství
+            -   kritika českých poměrů a morálky
+        -   přítel TGM
+        -   Díla:
+            -   “Zde by měli kvést růže”
+                -   kritika ženských práv a nerovného postavení ve společnosti
+            -   “Svědomím věků”
+                -   podobné “Legendě věků”(Victor Hugo)
+    -   Otokar Březina
+        -   vlastním jménem Václav Jebavý
+        -   přední český symbolista
+        -   pesimistická
+        -   motivy strachu, smrti, osamělosti
+        -   osobní tragické zážitky
+        -   spojení s náboženskými prvky
+        -   Díla:
+            -   “Svítání na západě”
+            -   “Stavitelé chrámů”
+            -   “Ruce”
+        -   použití volného verše - verš, co se podobá větě
+    -   Antonín Sova
+        -   impresionista
+        -   příroda, zachycení dojmů, neopakovatelný dojem
+        -   melancholie
+    -   Vilém Mrštík
+        -   impresionista
+        -   Dílo:
+            -   “Pohádka Máje”
+    -   František Xaver Šalda
+        -   literární kritik
+        -   přenáší prvky moderních směrů ze zahraniční do české literatury
+
+### Dekadence
+
+-   Moderní revue
+    -   čistě dekadentní časopis
+-   Jiří Karásek ze Lvovic
+    -   prosazuje svobodu, volnost
+    -   aristokratická výlučnost - to co je ze šlechty je best
+    -   sám šlechtic nebyl
+    -   motivy smrt, nuda, odpor, erotika, zvrhlost
+    -   gej
+    -   spojuje to s katolickou vírou
+    -   Dílo:
+        -   “Sodoma”
+            -   Sodoma - příběh v Bibli
+        -   “Sexus necans”
+            -   v překladu - Pohlaví ničící
+            -   spojení antiky a křesťanství se sexualitou a lidskými pudy
+
+### Katolická moderna
+
+-   Karel Hlaváček

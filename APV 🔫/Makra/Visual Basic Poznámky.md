@@ -1,0 +1,38 @@
+# VB Poznámky
+- začátek
+	- `Sub <název>()`
+- konec
+	- `End Sub`
+- výběr listů
+	- `Sheets("List3").Select` || `Sheets(3).Select`
+	- `Worksheets(<list>).Select`
+- výběr buňky
+	- `Range("A1").Select`
+	- `ActiveSheet.Range("B3").Select`
+- Grafický prvek 
+	- InputBox (vrací string) – čísla je nutné konvertovat
+	- formuláře – 16 prvků
+		- Label – popiska 
+			- **Name**, **Caption**
+		- TextBox – text. pole
+			- input hodnot od uživatele
+			- **Name** a **Text**
+		- ComboBox – rozbalovací nabídka
+			- RawSource => seznam buněk pro vytvoření listu
+			- ListRows
+		- ListBox – pole seznamu
+			- podobný jako ComboBox
+			- Pracuje s Array
+				- `ListBox.List() = array ("...")`
+		- CheckBox – boolean
+		- OptionBox – přepínač výběru "<input type="radio" />"
+			- vybírání 1 z možností
+				- v HTML je to `<input type="radio" />`
+		- Frame – ohraničení skupiny
+		- Image
+		- MultiPage – více oken na sobě
+			- **NewPage**
+		-  ScrollBar – rozbalovací nabídka
+		- SpinButton – přepínač hodnot
+		- CommandButton – tlačítko
+	- **RefEdit** – starý typ formulářů

@@ -1,0 +1,60 @@
+# Místní uživatelé a skupiny
+- local uživatelé
+- slouží
+	- k rozlišení a ověření uživatelů při přístupu k OS
+	- k definování **oprávnění a práv***
+		- (NTFS oprávnění)
+		- práva ovlivňují co může uživatel využívat a nastavovat v OS tečka
+		- Konzole zabezpečení
+			- secpol.msc
+			- gpedit.msc
+- Profil uživatele
+	- %SYSTEMDRIVE%/Users/%USERNAME%/
+	- C:/NTUSER.DAT
+- Heslo
+	- heslo je uloženo v systémovém registru a je nevratně zašifrováno (hash)
+- Další způsoby ověření uživatele
+	- Windows Hello
+	- otisk prstu
+	- Fyz. klíč - smart karta, token na flashce
+	- Cloud - Azure AD
+	- PIN kód - TPM 2.0
+- Uživatelské účty rozdělujeme
+	- podle způsobu vytvoření
+		- účty vytvořené administrátorem
+		- předefinované účty (při instalaci Win) – jsou defaultně zakázány
+			- administrator
+			- guest
+		- vestavěné systémové
+			- pro běh systémových služeb
+			- mohou být nositeli práv a oprávnění
+			- administrátor nemůže měnit vlastnosti
+	- na standardní uživatele a administrátory
+		- standardní je Users
+		- admini jsou členi Administrators
+## Uživatelské skupiny
+- podobně jako uživ. účty jsou nositeli oprávnění a práv
+- využívají se když
+	- potřebujeme více uživatelů nastavit stejné oprávnění / práva
+	- potřebujeme ... a uživ účet vložíme do skupiny
+- skupiny dělíme podle způsobu vytvoření
+	- 1. skupiny vytvořené administrátorem
+	- 2. skupiny předdefinované
+- Vlastnosti uživatelů
+	- jméno (bez diakritiky, bez mezer)
+	- vlastnosti (např.)
+		- uživatel nemůže měnit heslo
+		- účet je zakázán správcem
+	- záložka je členem určuje skupiny uživatele
+	- Profil
+		- cesta k profilu
+		- přihlašovací skript (bat soubor)
+## gpedit
+- slouží ke konfiguraci OS a jeho vlastností
+- uložena v registrech
+- edituje lokálně
+- Když je počítač připojen k Azure Active Directory
+- Potom správce nastavuje politiky na serveru zpravidla pro skupinu klientů tečka
+- Politiky dělíme na
+	- na politiky na počítač (platí pro všechny uživ. účty)
+	- politiky pro uživatele
