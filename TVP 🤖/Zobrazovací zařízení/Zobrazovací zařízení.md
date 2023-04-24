@@ -22,4 +22,52 @@
 	- krystaly mají tvar stejně dlouhých tyčinek
 	- natočení krystalů se řídí napájením elektrod, mezi kterými je tekutina s krystaly
 - LCD subpixel Zelený
-	- 
+- //TODO: dopsat polarizační filtr (obrázek)
+- Tvar propouštěného kmitání se vybírá natočením filtru
+- V LCD se používají 2 filtry navzájem otočený o 90 stupnu
+## Parametry LCD
+- velikost: dle úhlopříčky v palcích
+- poměr stran: 4:3, 16:9 atd.
+- rozlišení - FHD
+## Doba odezvy - ms
+- čas potřebný na změnu PIX z červené na bílou a zpět
+## Gammit
+- % z sRGB, %AdobeRGB
+- definuje 
+## LCD
+### VA - Vertical Alignment
+- Dobré pozorovací úhly (horší, než IPS)
+- lepší zobrazení černé barvy než IPS
+### QLED
+- Quantum Pot LED
+- speciální vrstva miniaturních teček
+- vylepšení:
+	- pozorovacích úhlů
+	- zobrazení černé barvy
+	- RGB
+## <u>Kontrast</u>
+- poměr svítivosti bílého a černého bodu obrazu
+### Dynamický kontrast
+- v závislosti na čase mění kontrast
+- závisí na funkcí vypínání části podsvícení
+- podsvícení rozděleno na matrici čtvercových oblastí, které lze vypínat
+## <u>Podsvícení</u>
+### LED
+- bílé barvy
+- 1) hranové podsvícení
+	- ![[Snímek obrazovky 2023-03-31 v 12.58.34.jpg]]
+- 2) matricové - skupiny LED - matrice
+	- 1 segment se vypíná/zapíná dle rozboru obrazu -> převažují černá v ploše segmentu = vypnutí podsvícení
+## Jas
+- maximální svit bílé v obrazovém bodu (PIX)
+- může být regulován na základě okolního světla
+## OLED
+- *Organic Light Emitting Diode*
+- Subpixel
+	- vrstva organické látky a průhledná anoda
+	- nepotřebuje podsvícení ––> je sám zdrojem světla (RGB)
+	- => výborné pozorovací úhly, nízká spotřeba, možnost pružného displeje, věrné barvy ––> široký gamut
+- Nevýhody - kratší životnost organických vrstev -> zvláště BLUE
+	- náchylnost k "vypálení" statického obrazu
+## Digitální projektory
+![[Pasted image 20230422210609.png]]

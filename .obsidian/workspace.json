@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cebbd7158027681c",
+        "id": "a3579b4473ab1cda",
         "type": "tabs",
         "children": [
           {
-            "id": "57d485c9ee647cd4",
+            "id": "41a1d0214c7d7343",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSY🗿/OS/Základy teorie OS.md",
+                "file": "APV 🔫/MS - Access/Databáze.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSY🗿/OS/Základy teorie OS.md",
+                "file": "APV 🔫/MS - Access/Databáze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSY🗿/OS/Základy teorie OS.md",
+                "file": "APV 🔫/MS - Access/Databáze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSY🗿/OS/Základy teorie OS.md"
+                "file": "APV 🔫/MS - Access/Databáze.md"
               }
             }
           }
@@ -146,10 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57d485c9ee647cd4",
+  "active": "a89ccf254837a8b2",
   "lastOpenFiles": [
+    "APV 🔫/MS - Access/Databáze.md",
+    "TVP 🤖/Zobrazovací zařízení/Grafické adaptéry.md",
+    "TVP 🤖/Zobrazovací zařízení/Zobrazovací zařízení.md",
+    "Z - images 🖼/Pasted image 20230422210609.png",
+    "APV 🔫/MS - Access/Pojmy.md",
+    "Z - images 🖼/IMG_5733.heic",
     "README.md",
+    "OSY🗿/OS/Cvičení.md",
+    "APV 🔫/MS - Access",
+    "OSY🗿/OS/Vlastnosti a rozdělení OS.md",
+    "PSI 🐶/Aktivní prvky sítí.md",
+    "Z - images 🖼/Snímek obrazovky 2023-04-20 v 9.18.45.jpg",
+    "Z - images 🖼/Pasted image 20230419092341.png",
+    "Z - images 🖼/Pasted image 20230419083529.png",
+    "Z - images 🖼/Pasted image 20230419083125.png",
+    "Z - images 🖼/Pasted image 20230419082818.png",
+    "Z - images 🖼/Pasted image 20230419082341.png",
+    "Z - images 🖼/Pasted image 20230419081850.png",
+    "Z - images 🖼/Pasted image 20230419081757.png",
     "OSY🗿/OS/Základy teorie OS.md",
+    "Z - images 🖼/Pasted image 20230411095343.png",
+    "PSI 🐶/Procvičování/PŘÍKLADY.md",
+    "PSI 🐶/Strukturovaná kabeláž.md",
     "TVP 🤖/Disky/Disk.md",
     "TVP 🤖/Základní deska/CPU/Rysy CPU.md",
     "TVP 🤖/Základní deska/Sběrnice/Konektory PCI-ex.md",
@@ -165,20 +186,7 @@
     "OSY🗿/OS/Zálohování.md",
     "PSI 🐶/oprava.md",
     "backup.md",
-    "Z - images 🖼/Pasted image 20230322133534.png",
-    "Z - images 🖼/Pasted image 20230308135328.png",
-    "Z - images 🖼/Pasted image 20230308091037.png",
-    "APV 🔫/Makra/Visual Basic Poznámky.md",
-    "APV 🔫/Makra/Makra.md",
-    "TVP 🤖/Zobrazovací zařízení/Grafické adaptéry.md",
-    "PSI 🐶/Úkoly/ipv4conf.md",
-    "PSI 🐶/Optický systém.md",
-    "TVP 🤖/Zobrazovací zařízení/Zobrazovací zařízení.md",
     "TVP 🤖/Zobrazovací zařízení",
-    "PSI 🐶/IP/Pasivní prvky sítí.md",
-    "TVP 🤖/Zvukové karty.md",
-    "IMG_5733.heic",
-    "PSI 🐶/IP/Sinusovka.md",
-    "Z - images 🖼/Pasted image 20230302090019.png"
+    "IMG_5733.heic"
   ]
 }

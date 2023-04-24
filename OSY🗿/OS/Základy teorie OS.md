@@ -44,3 +44,7 @@
 - technické přerušení
 	- logický signál IRQ – Interrupt Request
 - Obsluha přerušení
+## tabulka přerušení
+- CALL adresa
+- INTR <číslo_přerušení>
+## Rozdělení OS
