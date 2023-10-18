@@ -1,0 +1,57 @@
+Pracovní sešit
+- 67/1
+	- Těžká hodina
+		- proletářská poezie
+		- průmyslové
+		- dělníků
+		-  tvrdou práci
+		- opěvuje dělnický lid
+	- Pracující den
+		- proletářská poezie
+		- Svoboda
+		- mladá, vyrostlá
+		- krví a otroctvím
+		- průmyslové zóny, revoluční hnutí
+	- Na vlnách TSF
+		- poetismus
+		- čím větší čtverák, tím větší štěstí
+		- humorista 
+		- Karel Teige, Jaroslav Seifert
+	- Abeceda
+		- poetismus
+		- na základě tvarů
+		- pravidelný
+		- střídavý
+- 69/3
+	- a
+		- metafora
+		- přirovnání
+		- metafora
+	- b
+		- oranžově
+	- c
+		- podle toho co je obsahem psaní
+- 71/2
+	- a-4
+	- b-10
+	- c-5
+	- d-3
+		- epanastrofa -> opakování slova na konci a na začátku veršů
+	- e-1
+	- f-2
+	- g-9
+	- h-8
+	- i-6
+	- j-7
+- 71/3
+	- a-epanastrofa
+	- b-epizeuxis
+	- c-paranomázie
+	- d-anafora
+	- e-enumerace
+	- f-asonace
+	- g-epifora
+	- h-přirovnání
+	- i-metafora
+	- j-hyperbola
+- 72/5

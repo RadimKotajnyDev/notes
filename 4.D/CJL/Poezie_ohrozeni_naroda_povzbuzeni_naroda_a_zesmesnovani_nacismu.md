@@ -1,0 +1,65 @@
+- povzbuzení skrz historii
+	- Karel IV.
+	- Božena Němcová, K. H. Borovský, Neruda...
+- Praha
+- reakce na dění ve 30. letech
+- zesměšňování Hitlera, západních mocností
+- autoři:
+	- Josef Hora
+		- Domov
+			- sbírka básní
+			- opěvování vlasti
+	- Vítěslav Nezval
+		- Matka naděje
+			- sbírka básní
+			- povzbuzování
+	- František Halas
+		- Naše paní Božena Němcová
+			- utrpení lidí srovnává s utrpením Němcové
+	- Vladimír Holan
+		- Září 1938
+			- sbírka básní
+			- reakce na mnichov
+	- Jan Zahradníček
+		- katolicky orientovaný
+		- Korouhve
+			- víra, náboženství, vyzdvihování českých svatých
+	- Jiří Orten
+		- existencionalismus
+		- žid
+		- zemřel, když ho srazila německá sanitka
+		- Cesta k mrazu
+			- inspiroval se v novinovém článku
+				- o zmizení holčičky, která utekla dírou v plotě a umrzla
+	- Jaroslav Seifert
+		- Vějíř Boženy Němcové
+		- Kamenný most 
+			- odkaz na Karlův most
+		- Zhasněte světla
+			- odkaz na Mnichov
+
+## Velikání české poezie
+- Jaroslav Seifert
+- Vítěslav Nezval
+- Jiří Wolker
+- Vilém Závada
+	- důležitý zejména pro Ostravsko
+	- "pokračovatel Bezruče"
+	- vystihuje bídu a tíhu života
+	- černá Ostrava
+	- rozklad přírody
+	- Panychida
+		- báseň
+		- pojem pro smuteční obřad
+		- vzpomíná na padlé během Velké války
+- František Halas
+	- jeden z nejsložitějších českých básníků
+	- ovlivněn existencionalismem
+	- tragický básník
+	- používá neologismy
+	- Sépie
+		- báseň má připomínat sépii
+	- Kohout plaší smrt
+		- depresivní
+	- Staré ženy
+		- popisuje osamělost starých žen

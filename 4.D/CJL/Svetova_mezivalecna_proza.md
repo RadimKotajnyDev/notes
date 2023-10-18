@@ -1,0 +1,60 @@
+- historické souvislosti
+	- ekonomická krize
+	- extrémistické politické směry
+	- strach z WWII
+	- reakce na WWI
+	- ruská revoluce (1917)
+- umělecké směry
+	- realismus
+		- psychologická stránka postav
+		- jedinec
+	- experimentální/avantgarda
+		- není důležitý děj, ale lyrická složka
+		- volný proud myšlenek
+		- asociace
+		- Sigmund Freund
+		- složitý jazyk, syntax
+		- Franz Kafka
+		- Marcel Proust
+			- Hledání ztraceného času
+		- James Joyce
+			- Odysseus
+				- žid Bloom
+				- putuje poutí Dublinem
+				- není důležitý příběh, ale jazyk
+		- Virginie Woolfová
+			- K majáku
+		- Robert Musil
+			- Zmatky chovance Törlesse
+- Franz Kafka
+	- zapadá do světové i české literatury
+	- obecné rysy Kafkova díla
+		- neobjasněné skutečnosti které vedou až k absurdním situacím
+		- neznáme postavy
+		- narušuje časovou posloupnost a logiku
+		- úředníci spadající do stereotypu
+
+
+## Realismus
+- v americké próze
+	- kulturní přehled
+		- ztracená generace
+			- pojmenováno G. Steinovou
+			- narozeni okolo roku 1900
+			- museli narukovat velmi mladí
+			- narušená psychika
+			- pocity zklamání, strachu, deprese
+			- těžký návrat do společnosti
+			- Ernest Hemingway
+				- 1989
+				- dobrovolník na italské frontě
+				- těžce raněn
+				- po válce půsubil po celém světě 
+				- po druhé světové válce se odstěhoval na Kubu
+				- miloval lov, box a býčí zápasy
+				- 4x ženatý
+				- deprese
+				- několikrát se pokusil o sebevraždu
+				- nakonec se mu to povedlo (jupíííí, cgs broooo)
+				- novinář
+				- získal Nobelovu cenu

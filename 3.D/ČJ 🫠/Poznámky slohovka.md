@@ -1,0 +1,11 @@
+p- Vale
+- Macbook
+- Arduino
+- 7V
+- 2600 mAh
+- Kofeinová voda
+- mechanická klávesnice
+- spouštění židle dolů
+- 2D array ne, radši objekty
+- JSON bugy
+- Nefungující hodnota pondělíQ

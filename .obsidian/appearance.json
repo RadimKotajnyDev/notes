@@ -1,4 +1,6 @@
 {
   "baseFontSize": 20,
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Tokyo Night",
+  "translucency": false
 }
