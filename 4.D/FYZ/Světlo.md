@@ -4,7 +4,7 @@
 - Bílé světlo se dá rozložit
 - El. mag vlnění vnímané lidským okem o vlnových délkách 380 nm do 760 nm.
 - různé délky = různé barvy
-
+- **čím menší vlna, tím má větší energii**
 - barvy 
 	![[IMG_6452_3.jpg]] 
 
@@ -22,3 +22,12 @@
 | λ (lambda) | Vlnová délka | m, nm (metr) |
 | f  | frekvence | hz (hertz) |
 | c | rychlost světla ve vakuu | km, m (metr) |
+
+## Infračervené záření
+- teplo
+- infraporty
+## UV záření
+- solárium
+- tělo si vyrábí vitamin D
+- může poškodit DNA, způsobení nádoru
+- 
