@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ba642f39cfad04a3",
+        "id": "08a810416dfdc26f",
         "type": "tabs",
         "children": [
           {
-            "id": "05d39d0bc06bafcc",
+            "id": "190720858281501d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.D/OSY/Zadání 2 B.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.D/OSY/Zadání 2 B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.D/OSY/Zadání 2 B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4.D/OSY/Zadání 2 B.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,18 +156,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05d39d0bc06bafcc",
+  "active": "190720858281501d",
   "lastOpenFiles": [
-    "4.D/OSY/Zadání.md",
     "README.md",
+    "4.D/PSI/Untitled.md",
+    "4.D/OSY/Místní zásady zabezpečení.md",
+    "4.D/z Images/Pasted image 20231031081423.png",
+    "4.D/PSI/Wi-FI.md",
+    "4.D/OBN/Nejstarší řecké filozofické školy.md",
+    "4.D/OBN/Untitled.md",
+    "4.D/APV/Zpracování videa a zvuku.md",
     "4.D/OSY/Zadání 2 B.md",
+    "4.D/OSY/Zadání.md",
     "4.D/OSY/Konfigurace sítě a firewallu.md",
     "4.D/FYZ/Světlo.md",
     "4.D/FYZ/Optika.md",
     "4.D/FYZ/Čočky.md",
     "4.D/FYZ/Zobrazení kulovým zrcadlem.md",
     "4.D/FYZ/Fyzika.md",
-    "4.D/PSI/Wi-FI.md",
     "4.D/OSY/Role windows serveru v síti.md",
     "4.D/PSI/kabely.md",
     "4.D/OSY/DNS.md",
@@ -184,9 +182,6 @@
     "4.D/CJL/Poezie_ohrozeni_naroda_povzbuzeni_naroda_a_zesmesnovani_nacismu.md",
     "4.D/CJL/Ceska_mezivalecna_poezie.md",
     "4.D/APV/Software pro střih videa.md",
-    "4.D/OBN/Nejstarší řecké filozofické školy.md",
-    "4.D/OBN/Untitled.md",
-    "4.D/APV/Zpracování videa a zvuku.md",
     "4.D/FYZ/Úkol str. 19.md",
     "4.D/z Images/Pasted image 20231011104305.png",
     "4.D/z Images/Pasted image 20231011104155.png",
@@ -197,13 +192,11 @@
     "4.D/EKO/(4) Banka jako správce peněz.md",
     "4.D/z Images/Pasted image 20231010085857.png",
     "4.D/z Images/Pasted image 20231003101918.png",
-    "4.D/z Images/Pasted image 20231003101857.png",
     "4.D/PSI",
     "4.D/OSY",
     "TODO.md",
     "4.D/APV/Audio formáty.md",
     "4.D/OBN",
-    "4.D/APV/Zpracování zvuku.md",
     "4.D/APV",
     "4.D/z Images",
     "IMG_6486.heic",

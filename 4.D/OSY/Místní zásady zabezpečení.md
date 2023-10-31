@@ -1,0 +1,14 @@
+# Místní zásady zabezpečení
+- secpol.msc
+- V této konzoli je možno ovlivnit nastavení zabezpečení operačního systému
+- konfigurace je uložena v registrech
+- zásady zabezpečení jsou rozděleny do skupin
+	- ![[Pasted image 20231031081423.png]]
+	- důležité:
+		- místní zásady
+		- zásady správce seznamu sítí
+- složité neboli komplexní heslo podle MS musí obsahovat 3/4 druhů znaku – výchozí délka 6 znaků (8 na serveru) = nedostačující
+	- malá písmena
+	- velká písmena
+	- číslice
+	- ostatní znaky

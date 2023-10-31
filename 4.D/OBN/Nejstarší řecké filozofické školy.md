@@ -1,4 +1,6 @@
 # Nejstarší řecké filozofické školy
+- pralátka = arché
+
 - věřili v převtělování
 ## Milétská škola
 - základ všeho – elementy
@@ -38,3 +40,24 @@
 - svět si představují jako válec
 ### Empedoklés
 ### Anaxagóras
+## Mladší fyzici (atomisté)
+### Demokritos
+- pralátka => atom
+- síla => nus ?
+- fatalismus => lidský osud
+- ateismus => nevíra v boha
+## Vrcholná řecká filozofie (sofisté, Sokrates)
+- 5 St. před n. l. 
+- člověk se začal více zajímat o společnost
+- základní představitelé demokracie
+- cíl, záměr => vychovat úspěšné politiky tak, aby dokázali přesvědčit ostatní lidi.
+	- obléct lež tak, aby vypadala jako pravda
+	- pravda je subjektivní
+- důraz na rozvoj rétoriky = řečnictví
+- sofismata = vědomé klamavé informace
+- závěr => člověk rohy neztratil, tak že rohy má
+### Protagóras
+### Gorgiás
+- nihilismus
+1) Nic není
+2) I kdyby něco bylo, nelze to poznat
