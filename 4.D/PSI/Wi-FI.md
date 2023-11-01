@@ -15,7 +15,7 @@ todo: dopsat
 - automatické předávání pohybujících se klientů – roaming
 	- k tomu se používá Wi-Fi Controller
 	- řadič v cloudu
-- o podnikových sítí s více uživateli není vhodné sdílené heslo na Wi-Fi
+- **o podnikových sítí s více uživateli není vhodné sdílené heslo na Wi-Fi**
 - WPA-2 ENTERPRISE + RADIUS SERVER
 - ![[Pasted image 20231010085857.png]]
 - WPA2 - PERSONAL – V podnikové wifi síti s centrálním řadičem může být sdílené heslo (sdílený síťový klíč), které je pro všechny uživatele stejné a je uloženo v controlleru a tam probíhá ověření

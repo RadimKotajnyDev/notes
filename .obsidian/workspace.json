@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "08a810416dfdc26f",
+        "id": "ea9d6fe1f94a5b4c",
         "type": "tabs",
         "children": [
           {
-            "id": "190720858281501d",
+            "id": "96db04ddb1d40d7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4.D/PSI/Wi-FI.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4.D/PSI/Wi-FI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4.D/PSI/Wi-FI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4.D/PSI/Wi-FI.md"
+              }
             }
           },
           {
@@ -156,13 +164,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "190720858281501d",
+  "active": "96db04ddb1d40d7b",
   "lastOpenFiles": [
+    "4.D/PSI/Pasivní síťové prvky.md",
+    "3.D/PSI 🐶/Aktivní prvky sítí.md",
+    "3.D/PSI 🐶/Optický systém.md",
+    "4.D/PSI/Wi-FI.md",
+    "4.D/PSI/kabely.md",
+    "4.D/EKO/Finanční produkty.md",
+    "4.D/OSY/Možnosti složky.md",
+    "4.D/z Images/Pasted image 20231031092056.png",
+    "4.D/z Images/Pasted image 20231031091938.png",
     "README.md",
-    "4.D/PSI/Untitled.md",
     "4.D/OSY/Místní zásady zabezpečení.md",
     "4.D/z Images/Pasted image 20231031081423.png",
-    "4.D/PSI/Wi-FI.md",
     "4.D/OBN/Nejstarší řecké filozofické školy.md",
     "4.D/OBN/Untitled.md",
     "4.D/APV/Zpracování videa a zvuku.md",
@@ -175,27 +190,20 @@
     "4.D/FYZ/Zobrazení kulovým zrcadlem.md",
     "4.D/FYZ/Fyzika.md",
     "4.D/OSY/Role windows serveru v síti.md",
-    "4.D/PSI/kabely.md",
     "4.D/OSY/DNS.md",
     "4.D/z Images/Pasted image 20231018075816.png",
     "4.D/CJL/Ceska_mezivalecna_literatura.md",
     "4.D/CJL/Poezie_ohrozeni_naroda_povzbuzeni_naroda_a_zesmesnovani_nacismu.md",
     "4.D/CJL/Ceska_mezivalecna_poezie.md",
     "4.D/APV/Software pro střih videa.md",
-    "4.D/FYZ/Úkol str. 19.md",
     "4.D/z Images/Pasted image 20231011104305.png",
     "4.D/z Images/Pasted image 20231011104155.png",
     "4.D/z Images/Pasted image 20231011095131.png",
     "4.D/z Images/Pasted image 20231011095049.png",
     "4.D/z Images/Pasted image 20231011095026.png",
     "4.D/z Images/Pasted image 20231011094738.png",
-    "4.D/EKO/(4) Banka jako správce peněz.md",
-    "4.D/z Images/Pasted image 20231010085857.png",
-    "4.D/z Images/Pasted image 20231003101918.png",
     "4.D/PSI",
     "4.D/OSY",
-    "TODO.md",
-    "4.D/APV/Audio formáty.md",
     "4.D/OBN",
     "4.D/APV",
     "4.D/z Images",
