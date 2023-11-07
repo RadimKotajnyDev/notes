@@ -1,4 +1,4 @@
-ro# Zpracování videa a zvuku
+# Zpracování videa a zvuku
 ## Historie filmu
 - kinematografie – aspekty umělecké, technické a společenské
 - tisk, rozhlas, televize, internet

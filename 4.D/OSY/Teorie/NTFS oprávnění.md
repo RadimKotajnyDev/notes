@@ -1,0 +1,32 @@
+# NTFS oprávnění
+- Uvnitř souborového systému NTFS
+- slouží k řízení přístupu uživatelů a skupin ke složkám a souborům
+- oprávnění jsou fyzicky uložena v NTFS => v jeho systémových souborech
+	- **MFT** – *Master File Table*
+	- vidí je pouze OS
+	- uživatelé a skupiny => vyjádřeny pomocí SID (*Security ID*)
+	- Oprávnění se skládají z tzv. primitivních oprávnění a rozsahu platnosti oprávnění
+	- jednotlivá oprávnění = 1 bit
+	- primitivní oprávnění i NTFS oprávnění může být odděleno i přiděleno
+		- odepření má <u>vždy</u> přednost
+- ![[Pasted image 20231107082046.png]]
+- **MFT** je pro danou složku nebo soubor jeden záznam pro každého uživatele nebo skupinu, která tam má oprávnění
+	- záznam obsahuje **SID**, odepřená primitivní oprávnění, povolená primitivní oprávnění a rozsah platnosti oprávnění
+	- může platit pro složky, podsložky a soubory (kombinace)
+- v rozsahu platnosti jsou vytvořena základní NTFS oprávnění
+	- Úplné řízení
+	- Měnit
+	- Číst a spouštět
+	- Zobrazovat obsah složky
+	- Číst
+	- Zapisovat
+	- Oprávnění k zvláštnímu přístupu
+---
+- vlastníka může měnit administrátor, vlastník a ten, kdo má oprávnění přebírat vlastnictví
+- vlastník může měnit oprávnění vždy i kdyby oprávnění neměl
+- uživatel získává oprávnění od všech skupin, kde je členem
+- složky a soubory přebírají všechna zděditelná oprávnění od nadřízené složky
+- při naformátování disku jsou vytvořena výchozí oprávnění ke kořenové složce (root)
+---
+- Explicitní oprávnění – přiděleno oprávnění ke konkrétní složce nebo souboru (nevzniklo děděním)
+- Efektivní oprávnění – výsledné oprávnění konkrétního uživatele ke konkrétní složce nebo souboru

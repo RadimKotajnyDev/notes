@@ -1,5 +1,5 @@
-w#  Audio formáty
-## Komprese
+#  Audio formáty
+### Komprese
 - přebytečné bity odstraněny (kde chybí záznam)
 - úspora "z toho co lidi neslyší"
 ## WAV
