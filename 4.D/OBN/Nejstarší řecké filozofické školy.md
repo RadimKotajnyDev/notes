@@ -10,7 +10,7 @@
 ## Anaximenés
 - Pralátka – Vzduch
 ## Anaximandros
-- Pralátka – Opeiron
+- Pralátka – Apeiron
 - Svět – Válec ve vzduchu 
 ## Hérakleitos z Efesu
 - Pralátka – Oheň
