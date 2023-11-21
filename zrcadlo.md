@@ -1,0 +1,1 @@
+zrcadlo o poloměru cm, předmět je 3 cm před zrcadlem, jeho výška je 2 cm, zrcadlo je duté. 
