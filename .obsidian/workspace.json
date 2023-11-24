@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "797fdd1427ea8c4e",
+        "id": "845a0af5a10d8da8",
         "type": "tabs",
         "children": [
           {
-            "id": "566e4384c7472a68",
+            "id": "8ec46520b9424508",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.D/OSY/Teorie/Sdílení souborů v OS Windows.md",
-                "mode": "source",
+                "file": "4.D/OBN/Nejstarší řecké filozofické školy.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.D/OSY/Teorie/Sdílení souborů v OS Windows.md",
+                "file": "4.D/OBN/Nejstarší řecké filozofické školy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.D/OSY/Teorie/Sdílení souborů v OS Windows.md",
+                "file": "4.D/OBN/Nejstarší řecké filozofické školy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.D/OSY/Teorie/Sdílení souborů v OS Windows.md"
+                "file": "4.D/OBN/Nejstarší řecké filozofické školy.md"
               }
             }
           },
@@ -164,24 +164,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "566e4384c7472a68",
+  "active": "8ec46520b9424508",
   "lastOpenFiles": [
-    "README.md",
-    "4.D/OSY/Teorie/Sdílení souborů v OS Windows.md",
-    "4.D/OSY/Teorie/Role fileservices ve Windows Serveru.md",
-    "4.D/PSI/Připojení k internetu.md",
-    "4.D/FYZ/Úkol str. 19.md",
-    "zrcadlo.md",
+    "4.D/APV/Pošta MAIL.md",
+    "4.D/FYZ/Vlnové vlastnosti světla.md",
+    "4.D/FYZ/Laser a hologram.md",
+    "4.D/z Images/IMG_6616.jpg",
+    "4.D/FYZ/Fyzika.md",
+    "4.D/FYZ/Optika.md",
     "4.D/FYZ/Čočky.md",
     "4.D/FYZ/Zobrazení kulovým zrcadlem.md",
-    "4.D/FYZ/Optika.md",
-    "4.D/FYZ/Fyzika.md",
-    "4.D/FYZ/Vlnové vlastnosti světla.md",
+    "4.D/FYZ/Úkol str. 19.md",
+    "4.D/FYZ/Světlo.md",
+    "4.D/PSI/Připojení k internetu.md",
+    "4.D/OSY/Teorie/Sdílení souborů v OS Windows.md",
+    "README.md",
+    "4.D/OSY/Teorie/Role fileservices ve Windows Serveru.md",
+    "4.D/FYZ/zrcadlo.md",
     "4.D/z Images/Pasted image 20231114092449.png",
     "4.D/OSY/Cvičení/NTFS Oprávnění.md",
     "4.D/OBN/Nejstarší řecké filozofické školy.md",
     "4.D/OBN/Untitled.md",
-    "4.D/APV/Pošta MAIL.md",
     "4.D/z Images/Pasted image 20231109094632.png",
     "4.D/z Images/Pasted image 20231109094627.png",
     "4.D/z Images/Pasted image 20231109094413.png",
@@ -200,11 +203,7 @@
     "4.D/PSI/Pasivní síťové prvky.md",
     "4.D/APV/Zpracování videa a zvuku.md",
     "4.D/APV/Software pro střih videa.md",
-    "4.D/APV/1. a 2. hodina.md",
-    "4.D/APV/Zpracování zvuku.md",
-    "4.D/APV/Audio formáty.md",
     "4.D/z Images/Pasted image 20231031092056.png",
-    "4.D/z Images/Pasted image 20231031091938.png",
     "4.D/PSI",
     "4.D/OSY",
     "4.D/OBN",

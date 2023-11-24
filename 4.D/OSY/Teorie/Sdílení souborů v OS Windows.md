@@ -28,3 +28,13 @@
 - __efektivní oprávnění ke sdílení je logický součin oprávnění ke sdílení a NTFS oprávnění__ (z důvodu kompatibility)
 ### připojení ke sdílenému prostředku
 1) průzkumník windows
+```
+\\server_name\share_name\<cesta k složce>
+```
+- Funguje pouze bez firewallu (povoleného připojení)
+- Většina aplikací potřebuje, aby sdílený prostředek měl písmeno jednotky (funkce připojit síťovou jednotku)
+- použití příkazu:
+```
+net use
+```
+- příkaz udělí cestě písmeno jednotky

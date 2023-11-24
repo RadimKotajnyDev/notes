@@ -23,13 +23,12 @@
 - Svět – ohnivá koule, rotuje kolem osy, není střed vesmíru
 ## Elejská škola
 - Poznání světa: pouze rozumem, protože smysly jsou klamné
-- Pohyb, změna, vývoj neexistuje
+- Pohyb, změna, vývoj neexistuje => Aporie (logické paradoxy)
 ### Xenofanés
 - pralátka = arché
 ### Parmenides
 ### Zenón
-- Aporie (logické paradoxy)
-	- Dichotomie půlení
+- Dichotomie půlení
 	- letící šíp => Nemůžeme pohyb definovat miliónkrát zastavení
 		- nevyletí z počátečního místa
 	- Achilleus a želva
