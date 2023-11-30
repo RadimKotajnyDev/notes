@@ -1,0 +1,19 @@
+# Role DHCP server
+- roli musíme doinstalovat
+- DHCP slouží k centrálnímu a vzdálenému nastavení síťových rozhraní na zařízeních v síti s prot. IPv4 a IPv6
+	- prot. obvykle nastavuje:
+		- IP adresu rozhraní
+		- masku
+		- výchozí bránu
+		- IP adresy primárního a sekundárního (nemusí být nastaven) jmenného serveru
+- Na windows serveru můžeme určit na kterých jeho síťových rozhraních má být služba DHCP aktivní
+- na síťových rozhraních, kde je DHCP aktivní musíme nastavit tzv. **DHCP POOL** (interval od do pro přidělování adres)
+- dále nastavujeme dobu zapůjčky – **DHCP LEASE**
+	- na veřejných místech se musí nastavovat krátká doba (circa půl hodiny)
+- Statické DHCP
+	- nemění se
+	- správce na DHCP serveru nastaví vazbu konkrétní IP adresy na MAC adresu
+- všechny ručně přidělené IP adresy v síti, kde je DHCP musí být mimo dosah ze kterého DHCP server přiděluje
+- jde třeba zvážit, zda DHCP server má být na Windows serveru nebo na routeru
+- ![[Pasted image 20231128090249.png]]
+- 

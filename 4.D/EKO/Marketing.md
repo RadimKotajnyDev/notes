@@ -1,0 +1,17 @@
+# Marketing
+- Co je to Marketing
+	- společenský, manažerský proces, jehož prostřednictví uspokojují jednotlivci a skupiny své potřeby a přání v procesu výroby a směny produktů a hodnot
+- Marketing zahrnuje mnoho činností souvisejících s uspokojením firemních potřeb:
+	- Průzkum a ovlivňování potřeb zákazníků
+	- Poznávání konkurence
+	- Boj s konkurencí o zákazníky
+	- vývoj výrobku
+	- podpora prodeje
+	- reklama
+	- distribuce výrobku
+- Výrobek
+	- vše co jde nabídnout ke koupi (/ spotřebě), co uspokojuje PPO (potřeby, požadavky, očekávání) zákazníků
+- Cena
+	- nerovná se hodnotě zboží
+	- Peněžní hodnota zboží
+- Distribuce

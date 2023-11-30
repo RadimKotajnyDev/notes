@@ -1,6 +1,12 @@
 {
   "baseFontSize": 21,
   "accentColor": "",
-  "cssTheme": "Tokyo Night",
-  "translucency": false
+  "cssTheme": "Tokyo Night Storm",
+  "translucency": false,
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Inter",
+  "enabledCssSnippets": [
+    "image-background"
+  ]
 }
