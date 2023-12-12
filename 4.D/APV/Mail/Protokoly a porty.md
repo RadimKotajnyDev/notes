@@ -32,3 +32,11 @@
 - digitální je v USA
 - elektronický v EU
 - drobné rozdíly
+## Co je to elektronický podpis
+- nedá se zfalšovat
+- obdoba klasického podpisu převedena do elekt. podoby
+### princip fungování
+- velké číslo (1024 nebo 2048 bitů) => neprolomitelné hrubou silou
+- Hashovací funkce
+## získání podpisu
+- porgramem pro vytváření a ověřování podpisu -> program vygeneruje dvojici soukromého a veřejného klíče -> veřejný klíč se předloží CA -> CA vystaví certifikát

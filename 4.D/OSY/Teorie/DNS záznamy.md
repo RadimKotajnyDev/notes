@@ -1,0 +1,26 @@
+# DNS záznamy
+- typy záznamů
+	- A – HOST URL adresa
+	- AAAA – IPv6 host address
+	- ALIAS
+	- CNAME – Canonical name for alias 
+	- MX záznamy – poštovní servery -> IP
+	- NS – name server
+	- PTR – pointer
+	- SOA – Start of Authority
+	- SRV – location of service
+	- TXT – Descriptive text
+---
+- V doméně windows s Active Directory obsahuje SRV záznam IP adresu řadiče domény a proto DNS server slouží klientským počítačům k vyhledání řadiče domény
+- V síti LAN musíme proto mít řadič domény a DNS server
+- V rámci LAN jako autoritativní
+- Instalace DNS
+	- 1) musíme přidat roli DNS
+	- 2) musíme říct na kterých síťových rozhraních má DNS naslouchat
+- DNS používá port 53
+---
+## DNSEC – zabezpečené DNS
+- ![[DNS záznamy-1701761269456.jpeg]]
+- rozšíření nad DNS, které zabezpečuje DNS odpovědi před modifikací ze strany útočníkem při cestě internetem
+- veřejný klíč k ověření je uložen
+- ověření provádí resolver

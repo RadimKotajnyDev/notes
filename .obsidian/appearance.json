@@ -1,7 +1,7 @@
 {
   "baseFontSize": 21,
-  "accentColor": "",
-  "cssTheme": "Tokyo Night Storm",
+  "accentColor": "#009491",
+  "cssTheme": "Tokyo Night",
   "translucency": false,
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",

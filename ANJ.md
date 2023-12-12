@@ -1,0 +1,12 @@
+# Changes in life
+- Environment change
+- Graduation
+- Change of friends
+- Breakup or starting a new relationship
+- Death of close person, birth of new family member
+- Buying a pet
+- New job, education change
+- New opportunities
+- Change of home, country
+- Drivers license
+- Changing a vision of life

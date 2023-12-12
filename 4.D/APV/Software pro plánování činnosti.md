@@ -1,0 +1,14 @@
+# Software pro plánování činnosti
+- cíle, strategie pro realizaci
+- význam
+	- zvyšování efektivity
+	- snižování rizika
+	- úspěšné organizační změny
+	- rozvoj účastníků
+- druhy plánů
+	- strategické
+	- taktické
+	- operativní
+---
+- em Client
+- 
