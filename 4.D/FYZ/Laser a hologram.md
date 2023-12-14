@@ -1,6 +1,7 @@
 # Laser a hologram
 str. 45
-## fotoelektrický jev – solární panel
+## fotoelektrický jev
+#fotoelektrickýjev
 ![[Laser a hologram-1701254741493.jpeg]]
 - E (hf) = W<sub>v</sub> + 1/2 . m<sub>e</sub> . v<sub>e</sub><sup>2</sup>
 - příklad

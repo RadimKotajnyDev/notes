@@ -4,10 +4,7 @@
 - Bílé světlo se dá rozložit
 - El. mag vlnění vnímané lidským okem o vlnových délkách 380 nm do 760 nm.
 - různé délky = různé barvy
-- **čím menší vlna, tím má větší energii**
-- barvy 
-	![[IMG_6452_3.jpg]] 
-
+- **čím menší vlna, tím má větší energii** 
 - barvy 
 	![[IMG_6452_3.jpg]]   
 
