@@ -9,8 +9,8 @@
 	- aktualizovat firmware
 	- přihlášení Admina vázat na IP nebo MAC
 	- nepoužívat tellnet, ale SSH
-- větší sítě rozdělujeme na VLAN
-## VLAN
+- větší sítě rozdělujeme na WLAN
+## WLAN
 - síť správy sítě
 	- učitelé
 	- žáci

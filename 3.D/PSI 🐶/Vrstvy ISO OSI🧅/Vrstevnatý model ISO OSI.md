@@ -65,8 +65,8 @@ zajištění obecného drátového formátu
 1) navázání komunikace
 2) zasílání dat
 3) ověření správného přenosu/Náprava chyb
-- **TCP – pomalejší, ale spolehlivý
-- nespojové ori. služba - **protokol UDP (User Datagram Protocol)
+- **TCP – pomalejší, ale spolehlivý**
+- nespojové ori. služba - **protokol UDP (User Datagram Protocol)**
 	- vyšle data, nestará se o správnost doručení a přenosovou cestu => nespolehlivý, ale rychlý přenos
 
 ## 3. Síťová 

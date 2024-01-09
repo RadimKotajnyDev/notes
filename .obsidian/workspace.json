@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "39ad85a07654a8d6",
+        "id": "b4d74d5471a1795f",
         "type": "tabs",
         "children": [
           {
-            "id": "58b9c86e8de7b975",
+            "id": "38d51c33655b5e9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.D/APV/Software pro plánování činnosti.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.D/APV/Software pro plánování činnosti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.D/APV/Software pro plánování činnosti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4.D/APV/Software pro plánování činnosti.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,36 +156,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58b9c86e8de7b975",
+  "active": "38d51c33655b5e9b",
   "lastOpenFiles": [
-    "4.D/FYZ/Fotoelektrický jev pokračování.md",
-    "4.D/FYZ/Laser a hologram.md",
-    "4.D/FYZ/Atomistika.md",
-    "4.D/OSY/Teorie/Uživatelské profily.md",
-    "4.D/OSY/Teorie/Objective Active Directory.md",
-    "4.D/PSI/Cvičení/zapojení do sviště.md",
-    "4.D/PSI/Teorie",
-    "4.D/EKO/Marketing/Podnikatelská Koncepce.md",
-    "4.D/EKO/Finanční produkty.md",
-    "4.D/FYZ/Světlo.md",
-    "4.D/FYZ/Vlnové vlastnosti světla.md",
-    "4.D/FYZ/zrcadlo.md",
-    "4.D/PSI/Teorie/Bezpečnost v síti LAN.md",
-    "ANJ.md",
-    "README.md",
-    "4.D/APV/Audio formáty.md",
-    "4.D/APV/Software pro plánování činnosti.md",
+    "4.D/OBN/Vrcholná řecká filozofie.md",
     "4.D/OBN/Nejstarší řecké filozofické školy.md",
-    "4.D/APV/Mail/Pošta MAIL.md",
-    "4.D/APV/Mail/Webové rozhraní pošty.md",
-    "4.D/APV/Mail/Protokoly a porty.md",
-    "4.D/OSY/Cvičení/NTFS Oprávnění.md",
-    "4.D/OSY/Cvičení/Zadání 4 A.md",
+    "3.D/PSI 🐶/IP/Třídy IP adres.md",
+    "3.D/PSI 🐶/IP/Adresace v Síti.md",
+    "3.D/PSI 🐶/IP/Podsítě v IPv4.md",
+    "3.D/PSI 🐶/IP/DNS.md",
+    "3.D/PSI 🐶/IP/BoopDHCP.md",
+    "3.D/PSI 🐶/IP/Sinusovka.md",
+    "3.D/PSI 🐶/Aktivní prvky sítí.md",
+    "3.D/PSI 🐶/Optický systém.md",
+    "3.D/PSI 🐶/Plán učiva.md",
+    "3.D/PSI 🐶/Strukturovaná kabeláž.md",
+    "3.D/PSI 🐶/Vrstvy ISO OSI🧅/Vrstevnatý model ISO OSI.md",
+    "3.D/PSI 🐶/Vrstvy ISO OSI🧅/V. 2 Datových spojů - Linková.md",
+    "3.D/PSI 🐶/Vrstvy ISO OSI🧅/V. 1 Fyzická.md",
+    "3.D/PSI 🐶/Vrstvy ISO OSI🧅/V. 4 Transportní.md",
+    "4.D/PSI/Teorie/Bezpečnost v síti LAN.md",
+    "4.D/PSI/Teorie/Wi-FI.md",
+    "4.D/PSI/Teorie/kabely.md",
+    "4.D/PSI/Teorie/Pasivní síťové prvky.md",
+    "4.D/PSI/Teorie/Připojení k internetu.md",
+    "4.D/PSI/Teorie/Bezpečnost sítí.md",
     "4.D/PSI/Teorie/Fyzická bezpečnost sítě.md",
-    "4.D/PSI/Cvičení/Zadání ARP.md",
+    "4.D/PSI/Cvičení/zapojení do sviště.md",
+    "4.D/FYZ/Optika.md",
+    "4.D/FYZ/Atomistika.md",
+    "image/Systém s více domény-1704272779199.jpeg",
+    "4.D/PSI/Teorie",
     "4.D/PSI/Cvičení",
-    "4.D/OSY/Teorie/DNS záznamy.md",
-    "4.D/OSY/Teorie/Active Directory Domain Services.md",
     "4.D/EKO/Marketing",
     "image",
     "image/DNS záznamy-1701761269456.jpeg",
@@ -206,7 +199,6 @@
     "4.D/z Images/Pasted image 20231114092449.png",
     "4.D/z Images/Pasted image 20231109094632.png",
     "4.D/z Images/Pasted image 20231109094627.png",
-    "4.D/z Images/Pasted image 20231109094413.png",
     "4.D/OSY/Teorie",
     "4",
     "4.D/OSY/Cvičení",
