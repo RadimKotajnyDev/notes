@@ -21,3 +21,5 @@
 - nejčastěji -> čistící, prací prostředky
 ## Marketingová Koncepce
 - "*Nejdřív poznej potřeby svého zákazníka a prodáš*"
+## Společenská koncepce
+- "*Poznej potřeby zákazníka, zohledni i potřeby společnosti a prodáš*"

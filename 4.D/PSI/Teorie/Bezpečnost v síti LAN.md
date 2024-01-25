@@ -20,3 +20,11 @@
 ## Opatření proti neautorizovaným zařízením a uživatelům
 - v drátové síti nepoužívat vypnuté porty
 - síti drátové i bezdrátové může být whitelist na MAC adresy
+## Protokol IEEE_802.1X
+![[Bezpečnost v síti LAN-1705996650283.jpeg]]
+- FreeRADIUS
+	- linux
+- NPS
+	- role windows serveru
+## Rozhraní mezi LAN a internetem
+- 

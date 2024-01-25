@@ -23,7 +23,7 @@
 - pudinkový model
 ### Rutherfordův model
 - 1911
-- 200 000 měření
+- 200 000 měření.    
 - planetární model
 ### Bohrův model
 - 1913

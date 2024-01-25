@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b4d74d5471a1795f",
+        "id": "5f383bf4efb298f0",
         "type": "tabs",
         "children": [
           {
-            "id": "38d51c33655b5e9b",
+            "id": "b401771d6fa6aec2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -135,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -156,34 +158,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38d51c33655b5e9b",
+  "active": "b401771d6fa6aec2",
   "lastOpenFiles": [
-    "4.D/OBN/Vrcholná řecká filozofie.md",
-    "4.D/OBN/Nejstarší řecké filozofické školy.md",
+    "README.md",
+    "ANJ.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "PSP.jpeg",
+    "4.D/FYZ/Jaderná fyzika.md",
+    "4.D/FYZ/Příklady Jaderná fyzika.md",
+    "image/Příklady Jaderná fyzika-1706094232216.jpeg",
+    "4.D/OSY/Zálohování.md",
+    "4.D/OSY/Teorie/Služby.md",
+    "4.D/EKO/Marketing/Monopolizace trhu.md",
+    "4.D/EKO/Marketing/Podstata trhu.md",
+    "4.D/PSI/Teorie/Bezpečnost v síti LAN.md",
+    "3.D/PSI 🐶/TCP IP/Architektura TCP IP.md",
+    "3.D/PSI 🐶/TCP IP/Vrstvy TCP IP.md",
+    "3.D/PSI 🐶/Vrstvy ISO OSI🧅/V. 2 Datových spojů - Linková.md",
+    "3.D/PSI 🐶/IP/Pasivní prvky sítí.md",
     "3.D/PSI 🐶/IP/Třídy IP adres.md",
     "3.D/PSI 🐶/IP/Adresace v Síti.md",
     "3.D/PSI 🐶/IP/Podsítě v IPv4.md",
     "3.D/PSI 🐶/IP/DNS.md",
     "3.D/PSI 🐶/IP/BoopDHCP.md",
     "3.D/PSI 🐶/IP/Sinusovka.md",
-    "3.D/PSI 🐶/Aktivní prvky sítí.md",
-    "3.D/PSI 🐶/Optický systém.md",
-    "3.D/PSI 🐶/Plán učiva.md",
-    "3.D/PSI 🐶/Strukturovaná kabeláž.md",
-    "3.D/PSI 🐶/Vrstvy ISO OSI🧅/Vrstevnatý model ISO OSI.md",
-    "3.D/PSI 🐶/Vrstvy ISO OSI🧅/V. 2 Datových spojů - Linková.md",
-    "3.D/PSI 🐶/Vrstvy ISO OSI🧅/V. 1 Fyzická.md",
-    "3.D/PSI 🐶/Vrstvy ISO OSI🧅/V. 4 Transportní.md",
-    "4.D/PSI/Teorie/Bezpečnost v síti LAN.md",
-    "4.D/PSI/Teorie/Wi-FI.md",
-    "4.D/PSI/Teorie/kabely.md",
-    "4.D/PSI/Teorie/Pasivní síťové prvky.md",
-    "4.D/PSI/Teorie/Připojení k internetu.md",
+    "image/Bezpečnost v síti LAN-1705996650283.jpeg",
     "4.D/PSI/Teorie/Bezpečnost sítí.md",
     "4.D/PSI/Teorie/Fyzická bezpečnost sítě.md",
-    "4.D/PSI/Cvičení/zapojení do sviště.md",
-    "4.D/FYZ/Optika.md",
-    "4.D/FYZ/Atomistika.md",
+    "4.D/OSY/Teorie/Remote Desktop Services.md",
+    "4.D/OSY/Teorie/Uživatelské profily.md",
+    "4.D/OSY/Teorie/Systém s více domény.md",
+    "image/Podstata trhu-1704802190487.jpeg",
     "image/Systém s více domény-1704272779199.jpeg",
     "4.D/PSI/Teorie",
     "4.D/PSI/Cvičení",
@@ -195,10 +201,6 @@
     "4.D/z Images/Laser a hologram-1701254741493.jpeg",
     "4.D/z Images/Pasted image 20231128095904.png",
     "4.D/z Images/Pasted image 20231128090249.png",
-    "4.D/z Images/IMG_6616.jpg",
-    "4.D/z Images/Pasted image 20231114092449.png",
-    "4.D/z Images/Pasted image 20231109094632.png",
-    "4.D/z Images/Pasted image 20231109094627.png",
     "4.D/OSY/Teorie",
     "4",
     "4.D/OSY/Cvičení",

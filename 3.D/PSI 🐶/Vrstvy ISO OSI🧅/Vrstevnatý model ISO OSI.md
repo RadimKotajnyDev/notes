@@ -27,7 +27,7 @@ uživatelé síťových řešení byli závislí na specifické technologie jedn
 ### 5. Relační vrstva
 ### 4. Transportní vrstva
 ### 3. Síťová vrstva
-### 2. Vrstva datových spojů
+### 2. Vrstva datových spojů (Linková)
 ### 1. Fyzická vrstva
 ---
 ## 7. Aplikační v.

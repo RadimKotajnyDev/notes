@@ -1,0 +1,33 @@
+# Jaderná fyzika
+- vzoreček: m = m<sub>0</sub> . e<sup>-ƛt</sup>
+- M<sub>0</sub> = hmotnost částic v čase t = 0
+- m = hmotnost částic v čase t
+--------------------------------------------------------------------
+- Př. Poločas přeměny plynu radonu <sup>222</sup>Rn je 3,8 dní
+- Kolik % zůstane po uplynutí doby
+	- a) 3,8 dní
+	- b) 7,6 dní
+	- c) proběhnou-li 4 poločasy přeměny
+	- d) 38 dní
+	- e) za 1,9 dne
+- a) 50%
+- b) 25%
+- c) 6%
+- d) 1/2<sup>10</sup> = 9,8 . 10<sup>-4</sup> = 1 . 10<sup>-3</sup> = 0,1 %
+- e)
+------------------------------------------------------------------------
+- Radionuklid uhlíku <sup>14</sup><sub>6</sub>C ve starém kousku dřeva představuje 0,0416 hmotnosti tohoto radionuklidu v živé dřevině.
+	- Určete přibližné stáří dřeva, jestliže poločas přeměny radionuklidu <sup>14</sup><sub>6</sub>C je 5 570 roků.
+- m<sub>0</sub> = 100%
+- m = 4,16 %
+- t = ?
+- T = 5 570 e
+- m = m<sub>0</sub> . e<sup>-ƛt</sup>
+- ƛ = ( ln 2 ) / T = 1,24 . 10<sup>-4</sup> s<sup>-1</sup>
+- 1 = ( 0,0416 . e<sup>-1,2410<sup>-4</sup>. t</sup> ) / log
+- ln 1 = ln 0,0416 + ln e<sup>-1,2410<sup>-4</sup>. t</sup>
+- 0 - ln 0,0416 = - 1,24 . 10<sup>-4</sup> t 
+- t = (- ln 0,04 . 1) / ( - 1,24 . 10 <sup>-4</sup>) = (-3,2) / (-1,24) . 10<sup>4</sup>
+- t = 2,6 . 10<sup>4</sup> = 26 000 let
+![[Příklady Jaderná fyzika-1706094232216.jpeg]]
+
