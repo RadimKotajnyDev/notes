@@ -1,4 +1,4 @@
-# Podstata trhu
+	# Podstata trhu
 ## Tradiční (zvykový systém)
 - primitivní civilizace
 - nízká produkce => pouze k uživení

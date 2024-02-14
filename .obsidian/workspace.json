@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5f383bf4efb298f0",
+        "id": "e658675171cdb77e",
         "type": "tabs",
         "children": [
           {
-            "id": "b401771d6fa6aec2",
+            "id": "a7199a008d0bd759",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4.D/EKO/Marketing/Tržně nediferencovaný a diferencovaný marketing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4.D/EKO/Marketing/Tržně nediferencovaný a diferencovaný marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4.D/EKO/Marketing/Tržně nediferencovaný a diferencovaný marketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4.D/EKO/Marketing/Tržně nediferencovaný a diferencovaný marketing.md"
+              }
             }
           },
           {
@@ -158,37 +166,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b401771d6fa6aec2",
+  "active": "a7199a008d0bd759",
   "lastOpenFiles": [
+    "4.D/EKO/Marketing/Tržně nediferencovaný a diferencovaný marketing.md",
+    "4.D/EKO/Marketing/Monopolizace trhu.md",
+    "4.D/EKO/Marketing/Podstata trhu.md",
+    "4.D/FYZ/Untitled.md",
+    "4.D/OSY/Teorie/údržba HW.md",
+    "4.D/FYZ/Příklady Jaderná fyzika.md",
+    "4.D/PSI/Teorie/Untitled.md",
+    "PSP.jpeg",
+    "4.D/APV/Zpracování videa a zvuku.md",
+    "4.D/APV/Software pro plánování činnosti.md",
+    "4.D/APV/Webové rozhraní pošty, Cookie a mezipaměť.md",
+    "4.D/APV/Zpracování zvuku.md",
+    "4.D/APV/Mail/Webové rozhraní pošty.md",
+    "4.D/APV/Mail/Protokoly a porty.md",
+    "4.D/APV/Mail/Pošta MAIL.md",
+    "4.D/APV/1. a 2. hodina.md",
+    "4.D/OSY/Teorie/Archivace.md",
     "README.md",
     "ANJ.md",
     "Untitled 1.md",
-    "Untitled.md",
-    "PSP.jpeg",
     "4.D/FYZ/Jaderná fyzika.md",
-    "4.D/FYZ/Příklady Jaderná fyzika.md",
     "image/Příklady Jaderná fyzika-1706094232216.jpeg",
-    "4.D/OSY/Zálohování.md",
+    "4.D/OSY/Teorie/Zálohování.md",
     "4.D/OSY/Teorie/Služby.md",
-    "4.D/EKO/Marketing/Monopolizace trhu.md",
-    "4.D/EKO/Marketing/Podstata trhu.md",
     "4.D/PSI/Teorie/Bezpečnost v síti LAN.md",
     "3.D/PSI 🐶/TCP IP/Architektura TCP IP.md",
     "3.D/PSI 🐶/TCP IP/Vrstvy TCP IP.md",
     "3.D/PSI 🐶/Vrstvy ISO OSI🧅/V. 2 Datových spojů - Linková.md",
-    "3.D/PSI 🐶/IP/Pasivní prvky sítí.md",
-    "3.D/PSI 🐶/IP/Třídy IP adres.md",
-    "3.D/PSI 🐶/IP/Adresace v Síti.md",
-    "3.D/PSI 🐶/IP/Podsítě v IPv4.md",
-    "3.D/PSI 🐶/IP/DNS.md",
-    "3.D/PSI 🐶/IP/BoopDHCP.md",
-    "3.D/PSI 🐶/IP/Sinusovka.md",
     "image/Bezpečnost v síti LAN-1705996650283.jpeg",
-    "4.D/PSI/Teorie/Bezpečnost sítí.md",
-    "4.D/PSI/Teorie/Fyzická bezpečnost sítě.md",
-    "4.D/OSY/Teorie/Remote Desktop Services.md",
-    "4.D/OSY/Teorie/Uživatelské profily.md",
-    "4.D/OSY/Teorie/Systém s více domény.md",
     "image/Podstata trhu-1704802190487.jpeg",
     "image/Systém s více domény-1704272779199.jpeg",
     "4.D/PSI/Teorie",
