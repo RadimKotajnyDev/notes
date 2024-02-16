@@ -1,0 +1,14 @@
+# Serverové aplikace
+- licensovány samostatně
+- na Windows server
+- Microsoft SQL server
+	- relační databázový systém s analytickými nástroji
+	- db
+		- MySQL
+		- ORACLE
+- Exchange server (Online)
+	- školní maily
+- Sharepoint server
+	- firemní internet - intranet
+	- úložiště dokumentů
+- Sharepoint 
