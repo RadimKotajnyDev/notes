@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "93332c0ea931945a",
+        "id": "0b0f06c44cde15e3",
         "type": "tabs",
         "children": [
           {
-            "id": "3c8e3fdcb5c18fab",
+            "id": "a9a1dcb3c66e7591",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.D/APV/Propojení eshop a účetnictví.md",
+                "file": "4.D/APV/license softwaru.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "7c47c299ae58f6cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.D/OBN/Sofisté.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.D/OBN/Sofisté.md",
+                "file": "4.D/APV/license softwaru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.D/OBN/Sofisté.md",
+                "file": "4.D/APV/license softwaru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.D/OBN/Sofisté.md"
+                "file": "4.D/APV/license softwaru.md"
               }
             }
           },
@@ -179,36 +166,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c47c299ae58f6cf",
+  "active": "a9a1dcb3c66e7591",
   "lastOpenFiles": [
-    "4.D/APV/Propojení eshop a účetnictví.md",
+    "4.D/APV/license softwaru.md",
+    "4.D/OSY/Cvičení/Úloha 6. 3..md",
+    "4.D/PSI/Cvičení/Úloha 6. 3..md",
+    "4.D/FYZ/Speciální teorie relativity.md",
     "4.D/OBN/Sofisté.md",
-    "4.D/FYZ/Jaderná elektrárna.md",
-    "4.D/OSY/Teorie/Serverové aplikace.md",
-    "4.D/APV/Software pro plánování činnosti.md",
-    "4.D/APV/Webové rozhraní pošty, Cookie a mezipaměť.md",
-    "4.D/EKO/Marketing/Tržně nediferencovaný a diferencovaný marketing.md",
-    "4.D/EKO/Marketing/Monopolizace trhu.md",
-    "4.D/EKO/Marketing/Podstata trhu.md",
-    "4.D/OSY/Teorie/údržba HW.md",
-    "4.D/FYZ/Příklady Jaderná fyzika.md",
-    "4.D/PSI/Teorie/Untitled.md",
-    "PSP.jpeg",
-    "4.D/APV/Zpracování videa a zvuku.md",
-    "4.D/APV/Zpracování zvuku.md",
-    "4.D/APV/Mail/Webové rozhraní pošty.md",
-    "4.D/APV/Mail/Protokoly a porty.md",
-    "4.D/APV/Mail/Pošta MAIL.md",
-    "4.D/APV/1. a 2. hodina.md",
-    "4.D/OSY/Teorie/Archivace.md",
-    "README.md",
-    "ANJ.md",
-    "Untitled 1.md",
-    "4.D/FYZ/Jaderná fyzika.md",
-    "image/Příklady Jaderná fyzika-1706094232216.jpeg",
+    "4.D/OBN/Vrcholná řecká filozofie.md",
+    "4.D/APV/Přehled datových formátů.md",
+    "4.D/APV/Software pro převod formátu.md",
+    "3.D/TVP 🤖/Základní deska/Paměť/Paměti v PC.md",
+    "3.D/TVP 🤖/Základní deska/Typy přenosů paměť <––> zařízení.md",
+    "3.D/TVP 🤖/Základní deska/Paměť/Operační paměť.md",
+    "3.D/TVP 🤖/Základní deska/Paměť/Paměťové moduly.md",
+    "3.D/TVP 🤖/Základní deska/CPU/Pojmenování Registrů.md",
+    "3.D/TVP 🤖/Základní deska/CPU/Rysy CPU.md",
+    "3.D/TVP 🤖/Základní deska/CPU/Předpověď větvení a skoků.md",
     "4.D/OSY/Teorie/Zálohování.md",
-    "4.D/OSY/Teorie/Služby.md",
-    "4.D/PSI/Teorie/Bezpečnost v síti LAN.md",
+    "4.D/FYZ/Jaderná elektrárna.md",
+    "4.D/EKO/Marketing/marketingový výzkum.md",
+    "4.D/FYZ/Atomistika.md",
+    "4.D/FYZ/Laser a hologram.md",
+    "4.D/FYZ/Čočky.md",
+    "4.D/FYZ/Úkol str. 19.md",
+    "4.D/FYZ/Světlo.md",
+    "4.D/FYZ/Fotoelektrický jev pokračování.md",
+    "4.D/FYZ/Jaderná fyzika.md",
+    "4.D/FYZ/Příklady Jaderná fyzika.md",
+    "PSP.jpeg",
+    "image/Příklady Jaderná fyzika-1706094232216.jpeg",
     "image/Bezpečnost v síti LAN-1705996650283.jpeg",
     "image/Podstata trhu-1704802190487.jpeg",
     "image/Systém s více domény-1704272779199.jpeg",

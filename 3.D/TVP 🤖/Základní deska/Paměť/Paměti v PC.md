@@ -16,4 +16,4 @@
 		- Je třeba refreshovat obsah
 		- delší přístup -> pomalejší W/R
 		- užití operační paměť
-		- 
+		-             

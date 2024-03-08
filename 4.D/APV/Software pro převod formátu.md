@@ -1,0 +1,11 @@
+# Software pro převod formátu
+- online
+	- dostupnější
+	- mohou být viry
+- offline
+	- není potřeba internet
+- placené
+- neplacené
+- bezpečné
+- nebezpečné
+- 
